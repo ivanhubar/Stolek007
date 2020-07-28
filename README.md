@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Javascript, PHP, and frameworks
 
-I am looking for a job.
+**I am looking for a job.**
 
 **My Bio (EN):** 
 
