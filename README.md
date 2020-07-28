@@ -4,6 +4,14 @@
 
 **I am looking for a job.**
 
+**My codewars:** https://www.codewars.com/users/Stolek007
+
+**My rabota.ua profile:** https://account.rabota.ua/jobsearch/cvbuilder?resumeId=16432342
+
+**My E-mail:** freevan04@gmail.com
+
+**My LinkedIn:** https://www.linkedin.com/in/ivanhubar/
+
 **My Bio (EN):** 
 
 Novice programmer, student. 16 years. I plan to develop towards Back-End, I see the future for js + Node.js, I will also definitely develop towards PHP. I also own the front, but it's less interesting for me) Looking for work. I am looking for a company where I can get experience, work in interesting projects, preferably a Back-End developer, in projects where I have to rack my brains.
